@@ -1,4 +1,4 @@
-Sentry 연동 테스트
+Sentry 테스트 용도의 sample
 ---
 
 #### 센트리 개념
